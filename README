@@ -1,0 +1,32 @@
+# 🌊 FlowFocus Pro 🧠
+
+Welcome to **FlowFocus Pro** – a smart, dynamic, and powerful task management platform built with 💙 **TypeScript** and 🔐 **Supabase** for authentication and secure task operations.
+
+## 🔧 Tech Stack
+
+- ⚙️ **TypeScript** – Type-safe coding
+- 🧩 **Supabase** – User authentication and real-time data
+- 💅 **Tailwind CSS** – Sleek UI styling
+- ⚡ **Vite** – Blazing fast development
+
+## ✨ Features
+
+✅ User Authentication (Login / Signup)\
+📝 Add Tasks with title, description, priority\
+📅 Due Dates & Reminders\
+📂 Categorize tasks dynamically\
+♻️ Edit / Delete tasks\
+📊 Static Task Counter\
+🎨 Light/Dark Theme (optional to add)\
+🔄 Real-Time UI Updates (with Supabase)
+
+## 🚀 Getting Started
+
+```bash
+git clone https://github.com/your-username/flowfocus-pro.git
+cd flowfocus-pro
+npm install
+npm run dev
+
+👩‍💻 Made By
+Shreya – Passionate about building productivity tools that make a difference!
